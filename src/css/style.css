@@ -1,0 +1,130 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color:#1b3a4b;
+    color: white;
+}
+
+a{
+    list-style: none;
+    text-decoration: none;
+}
+
+header{
+    width: 100%;
+    text-align: center;
+}
+
+#menu{
+    display: flex;
+    justify-content: space-around;
+    align-items: center; 
+    width: 100%;
+    position: fixed;
+    background-color:#1b3a4b;
+}
+
+nav a{
+    text-transform: uppercase;
+    color: white;
+    font-size: 30px;
+    font-family: 'Staatliches', cursive;
+    padding: 5vh;
+}
+
+nav a:hover {
+    background-color:  #00afb9;
+    border-radius: 10px;
+    
+}
+
+
+#logo{ 
+    height: 15vh;
+    margin: 10px;
+}
+
+#banner{
+    width: 100%;
+    margin-top: 100px;
+}
+
+main {
+    text-align: center;
+}
+
+h1{
+    font-size: 50px;
+    text-transform: uppercase;
+    font-family: 'Abril Fatface', cursive;
+}
+
+p{
+    font-size: 2em;
+}
+
+.contrast{
+    color: #00afb9;
+
+}
+
+.benefits{
+    padding-top: 50px;
+    background-color: white;
+    text-align: center;
+}
+
+.benefits h2{
+    color: black;
+    font-size: 2em;
+    text-transform: uppercase;
+}
+
+.benefits ul{
+    font-family: 'Staatliches', cursive;
+    text-transform: uppercase;
+    list-style: none;
+    font-size: 30px;
+    display: inline-block;
+    vertical-align: top;
+    color: black;
+    width: 40%;
+    letter-spacing: 6px;
+}
+
+.benefits li{
+    margin-bottom: 30px;
+}
+
+
+.benefits img{
+    width: 50%;
+    border-radius: 10px;
+}
+
+.benefits p{
+    color: black;
+}
+
+.btn-client{
+    margin: 40px;
+    padding: 20px 200px;
+    border-radius: 30px;
+    background-color: #00afb9;
+    font-size: 40px;
+    text-transform: uppercase;
+    font-family: 'Staatliches', cursive;
+}
+
+
+footer{
+    width: 100%;
+    text-align: center;
+}
+
+footer a{
+    color: white;
+}
