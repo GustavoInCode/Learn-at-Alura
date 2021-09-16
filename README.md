@@ -1,18 +1,22 @@
-<h1>Learn-at-Alura</h1>
+# Alura Projetos - HTML e CSS Only
+ repository with adapted projects from the Alura course
 
-<h2>Este repositório tem como objetivo mostrar o meu desenvolvimento em Front-end dentro do contexto alura academy.</h2>
+<h1> Progresso do primeiro Projeto Alura - Alura Barbearia </h1>
 
-<h2>This repository aims to show my Front-end development within the context of alura academy</h2>
+<p> Segue as ultimas alterações realizadas durante o curso de HTML e CSS da Alura, tentei detalhar e deixar o mais rico o possivel visualmente.</p>
+    
+<strong>
+    Conhecimentos aprendidos e aplicados durante essa etapa
+</strong>
+
+  * HTML
+  * CSS
+  * Boas praticas
 
 
-[x] Primeiro Projeto desenvolvido no primeiro modulo de HTML e CSS -  Alura
-
-<img src="../Alura-barbearia 1.png">
-<img src="../Alura-barbearia 2.png">
-<img src="../Alura-barbearia 3.png">
-
-
-<h2>Alterações fora do planejado</h2>
+<img src="./src/img/Alura-barbearia 1.png" alt="">
+<img src="./src/img/Alura-barbearia 2.png" alt="">
+<img src="./src/img/Alura-barbearia 3.png" alt="">
 
     1. Adicionado Menu
     2. Rodapé
